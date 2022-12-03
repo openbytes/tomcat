@@ -1,5 +1,5 @@
 # Version JDK8
-
+#测试
 FROM centos:7
 MAINTAINER Gaurav Agarwal, bharatmicrosystems@gmail.com
 
